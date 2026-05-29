@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+tqdm
+scikit-learn
+
+torch
+torchvision
+torchmetrics
+faster-coco-eval
+
+jupyter
+notebook
+ipywidgets
+gdown

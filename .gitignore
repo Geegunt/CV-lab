@@ -1,0 +1,19 @@
+# Выходные и промежуточные артефакты
+artifacts/
+outputs/
+
+# Данные: большие файлы и всё, что генерируется при запуске
+data/*.mp4
+data/input_frames/
+data/output_frames/
+data/coco/
+
+# Обученная модель
+models/
+*.pth
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
